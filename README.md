@@ -1,4 +1,6 @@
 # first-demo
-this is first repository
+This is first Repository
 <br/>
-Author name:Ali
+Author Name:Ali
+<br/>
+Works:web development
